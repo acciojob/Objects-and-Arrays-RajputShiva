@@ -7,8 +7,8 @@ const person = {
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
-let players = ['John', 'Jane', 'Mike', 'Sara'];
-let person = { name: 'Tom', age: 27 };
+let players = ["John", "Bob", "Alice", "Poppy"];
+let person = { name: 'John Doe', age: 80 };
 
 let team = players;
 let team1 = [...players];
